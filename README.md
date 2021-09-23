@@ -1,2 +1,2 @@
-# VB
-Nevem rövidítve
+# Proggyak
+tantárgy neve
