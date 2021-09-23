@@ -1,2 +1,1 @@
 # Proggyak
-tantárgy neve
